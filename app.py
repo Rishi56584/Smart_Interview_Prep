@@ -18,7 +18,7 @@ st.set_page_config(page_title="AI Speech+Emotion Insight", layout="centered")
 st.title("🎥 AI-Powered Communication Insight")
 
 # 🔐 Gemini API key (use your actual key here)
-GEMINI_API_KEY = "AIzaSyDHdy0Btr40Cs7d4PIfsegOm9bZuB4TPrY"
+GEMINI_API_KEY = "Type_your_API_Key"
 genai.configure(api_key=GEMINI_API_KEY)
 
 # ----------------------------
